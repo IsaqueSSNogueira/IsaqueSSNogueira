@@ -1,15 +1,19 @@
-## Brasil 😎🤙
-<!--
-**IsaqueSSNogueira/IsaqueSSNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Isaque! 👋
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor front-end com experiência em criar interfaces interativas e responsivas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando entrar no mercado de trabalho como programador. Sou apaixonado por resolver problemas e aprimorar minhas habilidades técnicas.
+
+## Habilidades
+
+- **Linguagens:** HTML, CSS, JavaScript;
+- **Frameworks/Bibliotecas:** React;
+- **Ferramentas:** Git, GitHub, Figma;
+- **Outras:** Design Responsivo, Boas Práticas de Acessibilidade.
+
+
+Estou sempre aberto a novas oportunidades e desafios. Sinta-se à vontade para entrar em contato!
+
+---
+
+Obrigado por visitar meu perfil! 🚀
