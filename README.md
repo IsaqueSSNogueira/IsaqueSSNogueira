@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor web front-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando entrar no mercado de trabalho como programador. Sou apaixonado por criar interfaces, resolver problemas e sempre aprender.
+Sou desenvolvedor web front-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando entrar no mercado de trabalho como programador. Sou apaixonado por criar interfaces, resolver problemas e em sempre aprender mais.
 
 ## Habilidades
 
