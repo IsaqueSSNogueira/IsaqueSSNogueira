@@ -14,7 +14,7 @@ Sou desenvolvedor web front-end. Atualmente, estou cursando Análise e Desenvolv
 Atualmente estou estudando a parte backend, estou bem interessado em bancos de dados e acredito no futuro próximo poder me declarar como um desenvolvedor web fullstack.
 
 Estou sempre aberto a novas oportunidades e desafios. Sinta-se à vontade para entrar em contato!
-isaquenogueira102@gmail.com
 ---
+isaquenogueira102@gmail.com
 
 Obrigado por visitar meu perfil! 🚀
