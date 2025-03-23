@@ -7,6 +7,6 @@ Me chamo Isaque, sou desenvolvedor front-end focado em criar interfaces incríve
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="img-CSS" width="30" />
   <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="img-JS" width="30" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHR_P-7OxbDx2-EpUFbKc24Ee2jKJYms_gUw&s" alt="img-React" width="35" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png alt="img-Node" width="35" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png" alt="img-Node" width="35" />
   <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="img-SQL" width="25" />
 </div>
