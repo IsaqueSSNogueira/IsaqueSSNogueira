@@ -6,8 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSSNogueira&layout=compact&theme=dark)
 
-### Projetos em Andamento
+### Projetos
 - [Binder Notes](https://isaquessnogueira.github.io/app-notas): Estou desenvolvendo um **app de notas** com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
+- [Clone Mercado Livre](https://isaquessnogueira.github.io/mercado-livre/): Uma réplica do famoso e-commerce Mercado Livre, com foco em proporcionar um **visual fiel ao original e visualmente atraente**, além de garantir uma **experiência responsiva em diferentes dispositivos**. Projeto desenvolvido em **React**, com atenção especial à **usabilidade e detalhes visuais**.
+
 
 <br> 
 
