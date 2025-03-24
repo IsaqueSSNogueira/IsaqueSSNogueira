@@ -7,8 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSSNogueira&layout=compact&theme=dark)
 
 ### Projetos em Andamento
-- [Binder Notes](https://isaquessnogueira.github.io/app-notas): Estou desenvolvendo um app de notas com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
+- ✍🗒[Binder Notes](https://isaquessnogueira.github.io/app-notas): Estou desenvolvendo um app de notas com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
 
+<br> 
 
 <div style="display:inline-block;">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="img-HTML" width="34" /> 
