@@ -8,6 +8,10 @@
 
 <br>
 
+## Projetos em Andamento
+- [Projeto 1](link-do-projeto): Descrição do que está aprendendo ou experimentando.
+
+
 <div style="display:inline-block;">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="img-HTML" width="34" /> 
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="img-CSS" width="30" /> 
