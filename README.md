@@ -11,10 +11,9 @@
   <img align="center" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="img-SQL" width="25" /> 
 </div> <br>
 
-## Tecnologias
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Wakatime Stats](https://wakatime.com/badge/user/SEU_USER_ID.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSSNogueira&theme=great-gatsby&show_icons=true)
