@@ -6,10 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSSNogueira&layout=compact&theme=dark)
 
-<br>
-
 ### Projetos em Andamento
-- [App notas](https://isaquessnogueira.github.io/app-notas): Descrição do que está aprendendo ou experimentando.
+- [App notas](https://isaquessnogueira.github.io/app-notas): Estou desenvolvendo um app de notas com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
 
 
 <div style="display:inline-block;">
