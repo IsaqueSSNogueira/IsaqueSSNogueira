@@ -12,4 +12,4 @@
 </div>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque-Nogueira&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueNogueira&theme=great-gatsby&show_icons=true)
