@@ -8,8 +8,8 @@
 
 <br>
 
-## Projetos em Andamento
-- [Projeto 1](link-do-projeto): Descrição do que está aprendendo ou experimentando.
+### Projetos em Andamento
+- [App notas](https://isaquessnogueira.github.io/app-notas): Descrição do que está aprendendo ou experimentando.
 
 
 <div style="display:inline-block;">
