@@ -9,5 +9,6 @@
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHR_P-7OxbDx2-EpUFbKc24Ee2jKJYms_gUw&s" alt="img-React" width="35" /> 
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png" alt="img-Node" width="35" /> 
   <img align="center" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="img-SQL" width="25" /> 
-</div><br>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSSNogueira&theme=great-gatsby&show_icons=true)
