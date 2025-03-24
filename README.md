@@ -11,9 +11,5 @@
   <img align="center" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="img-SQL" width="25" /> 
 </div> <br>
 
-![Wakatime Stats](https://wakatime.com/badge/user/SEU_USER_ID.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSSNogueira&theme=great-gatsby&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSSNogueira&layout=compact&theme=dark)
