@@ -13,7 +13,7 @@ Me chamo Isaque, sou **desenvolvedor FRONT-END** focado em criar interfaces incr
 <br>
 
 <div style="display:inline-block;">
-  <img align="center" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="img-HTML" width="44" height="44" /> 
+  <img align="center" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="img-HTML" width="44" height="45" /> 
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="img-CSS" width="30" /> 
   <img align="center" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="img-JS" width="30" /> 
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="img-React" width="35" /> 
