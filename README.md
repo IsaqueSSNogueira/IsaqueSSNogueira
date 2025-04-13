@@ -3,7 +3,7 @@
 Me chamo Isaque, sou **desenvolvedor FRONT-END** focado em criar interfaces incríveis e de alto desempenho. Tenho **conhecimento avançado em JavaScript e React**, sempre buscando inovação e soluções inteligentes para proporcionar experiências excepcionais. Atualmente, estou me aprofundando no **back-end com Node.js** para criar soluções completas e integradas. **Estou aberto a novas oportunidades**, vamos transformar ideias em código de qualidade? 🚀
 
 ### Projetos
-- [Binder Notes](https://github.com/IsaqueSSNogueira/app-notas-dev): Estou desenvolvendo um **app de notas** com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
+- [Binder Notes](https://isaquessnogueira.github.io/app-notas): Estou desenvolvendo um **app de notas** com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
 - [Clone Mercado Livre](https://isaquessnogueira.github.io/mercado-livre/): Uma réplica do famoso e-commerce Mercado Livre, com foco em proporcionar um **visual fiel ao original e visualmente atraente**, além de garantir uma **experiência responsiva em diferentes dispositivos**. Projeto desenvolvido em **React**, com atenção especial à **usabilidade e detalhes visuais**.
 
 <br> 
