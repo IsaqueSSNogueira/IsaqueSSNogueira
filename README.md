@@ -1,10 +1,13 @@
-# FALA DEVS! 😎📸💻
+# HEY DEVS! 😎📸💻
 
-Me chamo Isaque, sou **desenvolvedor FRONT-END** focado em criar interfaces incríveis e de alto desempenho. Tenho **conhecimento avançado em JavaScript e React**, sempre buscando inovação e soluções inteligentes para proporcionar experiências excepcionais. Atualmente, estou me aprofundando no **back-end com Node.js** para criar soluções completas e integradas. **Busco oportunidades para aplicar e expandir minhas habilidades**, vamos transformar ideias em código de qualidade? 🚀
+Hi, I'm Isaque — **a FRONT-END DEVELOPER** passionate about crafting high-performance, visually stunning user interfaces. I have **advanced skills in JavaScript and React**, always striving for innovation and smart solutions to deliver exceptional user experiences.  
+Currently, I’m deepening my knowledge in back-end development with Node.js to build complete and integrated solutions.  
+**I’m looking for opportunities to apply and grow my skills** — let’s turn ideas into high-quality code! 🚀
 
-### Projetos
-- [Binder Notes](https://isaquessnogueira.github.io/app-notas): Estou desenvolvendo um **app de notas** com o objetivo de oferecer uma **solução prática e funcional**, com uma **interface intuitiva e recursos avançados**. O app está sendo construído em **React** e será convertido para React Native para ser publicado nas principais **lojas de aplicativos** (Google Play e App Store).
-- [Clone Mercado Livre](https://github.com/IsaqueSSNogueira/mercado-livre-dev): Uma réplica do famoso e-commerce Mercado Livre, com foco em proporcionar um **visual fiel ao original e visualmente atraente**, além de garantir uma **experiência responsiva em diferentes dispositivos**. Projeto desenvolvido em **React**, com atenção especial à **usabilidade e detalhes visuais**.
+### Projects  
+- [Binder Notes](https://isaquessnogueira.github.io/app-notas): A **note-taking app** I’m building to provide a **practical and functional solution** with an intuitive **interface and advanced features**. It’s developed with **React** and will be ported to **React Native** for launch on the **App Store and Google Play**.
+
+- [Mercado Livre Clone](https://github.com/IsaqueSSNogueira/mercado-livre-dev): A replica of the popular e-commerce platform, focusing on **faithful visuals and a seamless responsive experience across devices**. Built with **React**, with special attention to **usability and polished UI details**.
 
 <br> 
 
