@@ -5,7 +5,7 @@ Currently, I’m deepening my knowledge in back-end development with Node.js to 
 **I’m looking for opportunities to apply and grow my skills** — let’s turn ideas into high-quality code! 🚀
 
 ### Projects  
-- [Binder Notes](https://isaquessnogueira.github.io/app-notas): A **note-taking app** I’m building to provide a **practical and functional solution** with an intuitive **interface and advanced features**. It’s developed with **React** and will be ported to **React Native** for launch on the **App Store and Google Play**.
+- [Binder Notes](https://app-notas-dev.vercel.app/): A **note-taking app** I’m building to provide a **practical and functional solution** with an intuitive **interface and advanced features**. It’s developed with **React** and will be ported to **React Native** for launch on the **App Store and Google Play**.
 
 - [Mercado Livre Clone](https://github.com/IsaqueSSNogueira/mercado-livre-dev): A replica of the popular e-commerce platform, focusing on **faithful visuals and a seamless responsive experience across devices**. Built with **React**, with special attention to **usability and polished UI details**.
 
