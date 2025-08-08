@@ -1,4 +1,4 @@
-# HEY DEVS! 😎📸💻
+# HEY DEVS! 💻
 
 Hi, I'm Isaque — **a FRONT-END DEVELOPER** passionate about crafting high-performance, visually stunning user interfaces. I have **advanced skills in JavaScript and React**, always striving for innovation and smart solutions to deliver exceptional user experiences.  
 Currently, I’m deepening my knowledge in back-end development with Node.js to build complete and integrated solutions.  
